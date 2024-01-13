@@ -2,15 +2,17 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Touristo App
+  role: Android Developer
+  Technologies: Java, MySQL, MVVM, XML, Firebase, PHP, Google Maps.
+  # duration: 2012 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Touristo is an Android application designed to assist users in exploring popular destinations in India and worldwide. Its key features include - <ul class="resume-item-list"><li>Explore popular places in India and globally.</li><li>Check distances to tourist spots from your current location.</li><li>Save favorite places for quick access.</li><li>Secure login using Google authentication.</li><li>Book preferred packages directly through the app.</li><li>Discover trending destinations based on the most viewed places by other users.</li></ul>
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Women Safety Application
+  role: Main Developer
+  Technologies: Java, SMS Telephony, MVVM, XML, Firebase, Google Maps.
+  # duration: 2007 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: It's a Women's Safety SOS Application designed to assist women in perilous situations by quickly notifying their chosen contacts, which can include family and the police. With a simple one-click operation during emergencies, the app promptly shares the user's live location with three specified contacts, ensuring a swift and effective response.
